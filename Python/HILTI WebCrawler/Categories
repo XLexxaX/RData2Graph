@@ -1,0 +1,418 @@
+Categories.id;id;x,Categories.id;supercategory;,Categories.name;;,Categories.description;;
+1,0,Products,See how to increase your productivity and mobility by using cordless tools: hammer drill drivers impacts angle grinders rotary hammers and saws
+2,1,Cordless Tools,Find out how cordless SDS Plus rotary hammers are designed for higher performance and run time in concrete drilling and light chiseling
+3,1,Direct Fastening,Find out how our fully automatic and semi-automatic powder-actuated tools are a more reliable and robust system to increase produtivity for general fastenings on concrete steel and masonry
+4,1,Measuring Tools & Scanners,Find out how our laser meters are designed for intuitive and one-person operation when measuring over long distances or hard-to-reach spots
+5,1,Fasteners,A wide range of chemical anchor fasteners - our injectable mortars are also designed for rebar applications and can be used on concrete and masonry
+6,1,Firestop & Fire Protection,Explore our easy-to-install and inspect pre-formed firestop solutions for pipe penetrations through fire-rated floors
+7,1,Software,Hilti PROFIS software helps you with your measuring tasks from design and data management to jobsite layout and concrete scan analysis
+8,1,Construction Chemicals,Self-expanding polyurethane foam sealants. Fills seals and insulates by forming a durable air-resistant and water-resistant bond with most construction substrates
+9,1,Asset Management,Broad portfolio of robust tags - designed for the toughest jobsite conditions - to identify your tools equipment and consumables.
+10,1,Installation Systems,Modular support systems for many common and specialized piping applications. Designed specifically for greater flexibility and productivity
+11,1,Dust Management & Vacuum Cleaners,Find out how corded cordless or hybrid vacuum cleaners – wet and dry – and accessories can maximize power tool performance and create cleaner jobsites
+12,2,Accessories for Cordless Tools,Show me accessories for drill drivers and screw drivers
+13,1,Tool Inserts,Find out how our SDS hammer drill bits are designed to drill faster and last longer during serial drilling in concrete masonry and other minerals
+14,2,Cordless Combo Kits,Show me cordless combo kits with 2 tools batteries charger and inserts
+15,1,Power Tools,Find out how SDS Plus (TE-C) rotary hammers are designed for higher performance and handling comfort in concrete drilling and light chiseling
+16,2,Cordless Jobsite Lights & Radios,Show me cordless jobsite radios with a built-in battery charger compatible with all Hilti lithium-ion batteries
+17,2,Cordless Rotary Hammers SDS-Plus,Find out how cordless SDS Plus rotary hammers are designed for higher performance and run time in concrete drilling and light chiseling
+18,2,Cordless Hydraulic Cutters & Crimpers,Show me 22V cordless crimpers designed for crimping almost any connectors
+19,2,Cordless Dispensers,None
+20,2,Cordless Fastening Tools,Find out about our combustion-free nailers for driving nails into concrete steel and some types of solid masonry
+21,2,Cordless Dust Management & Vacuums,Show me cordless and hybrid vacuum cleaners designed for wet and dry environments
+22,2,Cordless Measuring Tools,Find out how our cordless measuring tools are designed for maximum run time
+23,2,Cordless Grinders,Find out how our cordless angle grinders are designed for longer run time and higher performance for metal and mineral cutting and grinding
+24,2,Batteries & Chargers,Show me lightweight and fast-charging batteries designed to fit our cordless tools perfectly
+25,2,Cordless Saws,Show me 22V and 36V cordless circular saws designed for performing light- and heavy-duty cutting in metal wood and wood composites
+26,10,Hot-Dip Galvanized Products,Medium-duty channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+27,3,General Purpose Powder-Actuated Tools & Cartridges,Find out how our fully automatic and semi-automatic powder-actuated tools are a more reliable and robust system to increase produtivity for general fastenings on concrete steel and masonry
+28,10,Software,Easy-to-use software which can automate the design and ordering of modular support systems
+29,10,Stainless Steel Products,Medium-duty channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+30,10,Galvanized products,Medium-duty channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+31,11,Vacuum Cleaners & Accessories,Show me cordless and hybrid vacuum cleaners designed for wet and dry environments
+32,13,Hydraulic Crimping Dies,Find out how our crimping dies are engineered to perform reliably when crimping connectors
+33,10,Imperial pipe clamps,One-piece strut clamps which are ready to install straight out of the box. Just break apart and install – no nuts required
+34,13,Hydraulic Cutting & Crimping Jaws,Show me crimping jaws to crimp a wide range of connectors
+35,13,Diamond Wires,Find out how our diamond wires are designed for all types of demolition cutting and sawing in concrete as well as other minerals and steel
+36,13,Diamond Wall Saw Blades,Find out how our diamond saw blades are designed for constant speed and smoother cutting in concrete and other minerals also under extreme conditions.
+37,13,Cut out Bits,Find out why our cut-out bits are so versatile for cutting in drywall and soft materials
+38,16,Jobsite Radios,Show me cordless jobsite radios with a built-in battery charger compatible with all Hilti lithium-ion batteries
+39,15,Batteries & Chargers,Show me lightweight and fast-charging batteries designed to fit our cordless tools perfectly
+40,16,Cordless Jobsite Lights,Show me 12V and 22V cordless jobsite lights for direct illumination of any work area compatible with Hilti lithium-ion batteries
+41,25,Cordless Cut-Out Tools,Show me 22V cordless cut-out saws designed for performance in cutting drywall
+42,25,Cordless Circular Saws,Show me 22V and 36V cordless circular saws designed for performing light- and heavy-duty cutting in metal wood and wood composites
+43,30,Medium-duty channel system (MQ),Medium-duty channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+44,29,Accessories,Accessories for modular support systems – threaded rods hexagonal nuts screws bolts adapters and washers in a stainless steel surface finish
+45,30,Seismic solutions,Hilti bracing systems for a vast ranged of mechanical and electrical applications in seismic areas.
+46,30,Accessories,Accessories for modular support systems – threaded rods hexagonal nuts screws bolts adapters and washers in a galvanized surface finish
+47,31,Vacuum Cleaner Accessories,Show me accessories for vacuum cleaners
+48,39,Batteries,Show me lightweight and fast-charging batteries designed to fit our cordless tools perfectly
+49,39,Adapters,Show me adapters to enable smaller batteries to be charged in universal chargers
+50,39,Chargers,Show me fast chargers multi-bay and car chargers designed for Hilti batteries
+51,34,Hydraulic Cutting Jaws,Show me cutting jaws to safely cut steel copper and aluminum cables
+52,33,Riser Clamps,Speed lock technology for riser clamps designed for fast one-person installation
+53,34,Hydraulic Crimping Jaws,Show me crimping jaws to crimp a wide range of connectors
+54,33,Pipe Hangers,Speed lock technology for hangers designed for fast one-person installation
+55,33,Strut clamps,One-piece strut clamps which are ready to install straight out of the box. Just break apart and install – no nuts required
+56,31,Vacuum Cleaners,Show me corded wet and dry vacuum cleaners designed to help keep the jobsite clean and dust out of the way
+57,30,Sprinkler solutions,Optimized and approved solutions for installing sprinkler systems comprised of a wide range of modular support systems pipe rings and loop hangers
+58,30,Ventilation Solutions,Modular support systems for a wide range of ventilation applications. Specially designed for greater flexibility and improved acoustic insulation
+59,30,Base connectors,Base plates steel clamps and hangers with a galvanized surface finish for fastening to concrete masonry steel beams metal roof decks and more
+60,30,Imperial pipe clamps,Imperial pipe clamps to fix utility and process pipes both indoors and outdoors. Covering a wide range from light to heavy
+61,31,Cordless Vacuum Cleaners,Show me cordless and hybrid vacuum cleaners designed for wet and dry environments
+62,29,Imperial Pipe Clamps,Imperial pipe clamps to fix utility and process pipes for indoor and outdoor applications. Covering a wide range from light to heavy
+63,30,Medium-duty channel system (HS),Modular channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+64,26,Accessories,Accessories for modular support systems - threaded rods hexagonal nuts screws bolts adapters and washers in a hot-dip galvanized surface finish
+65,29,Medium-duty channel system (MQ),Medium-duty channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+66,26,Pipe Clamps,A variety of hot-dip galvanized pipe clamps for heating plumbing and wastewater applications in corrosive environments
+67,26,Heavy-duty channel system (MIQ),Heavy-duty channel system with integrated MQ profile for easier pipe connectivity
+68,26,Heavy-duty channel system (MI),Hilti's strongest heavy-duty channel system saving time and increasing productivity in various applications
+69,25,Cordless Band Saws,Show me 22V cordless band saws designed for performing cutting a wide range of materials
+70,25,Cordless Jig Saws,Show me 22V cordless jig saws designed for performance and user comfort when cutting in metal and wood
+71,26,Medium-duty channel system (HS),Modular channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+72,25,Cordless Reciprocating Saws,Show me 22V and 36V cordless reciprocating saws designed for performing light- and heavy-duty demolition in metal wood and wood composites
+73,26,Medium-duty channel system (MQ),Medium-duty channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+74,24,Chargers,Show me fast chargers multi-bay and car chargers designed for our batteries
+75,24,Adapters,Show me adapters to enable smaller batteries to be charged in universal chargers
+76,24,Batteries,Show me lightweight and fast-charging batteries designed to fit our cordless tools perfectly
+77,21,Dust Management for Sawing,Show me dust removal systems and accessories for working virtually dust-free with cordless sawing tools
+78,21,Dust Management for Cutting,Show me dust removal systems and accessories for working virtually dust-free with cordless cutting tools
+79,21,Dust Management for Drilling,Show me dust removal systems and accessories for working virtually dust-free with cordless drilling tools
+80,18,Cordless Knockout Punch,Show me 22V cordless knockout punches designed for punching through holes in metal sheet
+81,18,Cordless Hydraulic Cutters,Show me 22V cordless cutters designed for cutting more safely steel copper and aluminum cables
+82,21,Cordless Vacuum Cleaners,Show me cordless and hybrid vacuum cleaners designed for wet and dry environments
+83,18,Cordless Hydraulic Crimpers,Show me 22V cordless crimpers designed for crimping almost any connectors
+84,15,Jobsite Lights & Radios,Show me cordless jobsite radios with a built-in battery charger compatible with Hilti lithium-ion batteries
+85,15,Dust Management & Vacuum Cleaners,Show me corded wet and dry vacuum cleaners designed to help keep your jobsite free of dust water and slurry
+86,15,Hydraulic Cutters & Crimpers,Show me 22V cordless crimpers designed for crimping a wide range of connectors
+87,15,Diamond Wire & Wall Saws,Show me diamond wall saws designed for structural alteration and heavy-duty concrete demolition
+88,15,Diamond Coring Machines,Show me diamond coring machines – hand-held and rig-based wet and dry – for all coring in concrete and masonry
+89,15,Diamond Cutting & Slitting Tools,Show me electric diamond blade cutters with different disc diameters designed for concrete cutting
+90,15,Saws,Show me circular saws – both corded and cordless – designed for cutting wood and metal
+91,84,Jobsite Radios,Show me cordless jobsite radios with a built-in battery charger compatible with Hilti lithium-ion batteries
+92,84,Cordless Jobsite Lights,Show me 12V and 22V cordless jobsite lights for direct illumination of any work area compatible with Hilti lithium-ion batteries
+93,85,Dust Management for Sawing,Show me dust removal systems for saws
+94,85,Dust Management for Grinding & Sanding,Show me dust removal systems for angle grinders and sanders
+95,86,Knockout Punch,Show me 22V cordless knockout punches designed for punching through-holes in metal sheet
+96,87,Accessories for Floor Saws,Show me accessories for floor saws
+97,88,Diamond Coring Machines,Show me diamond coring machines – hand-held and rig-based wet and dry – for all coring in concrete and masonry
+98,87,Accessories for Wall Saws,Show me accessories for diamond wall saws – such as blade guards wall saw tracks guide rails and rail feet
+99,89,Accessories for Electric Cutters,Show me accessories for electric cutters from attachments replacement parts and guards to dust collection accessories
+100,89,Accessories for Slitting Tools,Show me accessories for slitting tools from attachments replacement parts and guards to dust collection accessories
+101,89,Electric Cutters,Show me electric diamond blade cutters with different disc diameters designed for concrete cutting
+102,90,Circular Saws,Show me circular saws – both corded and cordless – designed for cutting wood and metal
+103,90,Cordless Cut-Out Tools,Show me 22V cordless cut-out saws designed for cutting drywall
+104,90,Accessories for Saws,Show me accessories for saws – from attachments replacement parts guards and hoods to dust collection accessories
+105,90,Cordless Band Saw,Show me 22V cordless band saws designed for speed and ease when cutting a wide range of materials
+106,90,Jig Saws,Show me jig saws – both corded and cordless – designed for speed precision and operator comfort when cutting metal and wood
+107,90,Reciprocating Saws,Show me corded and cordless reciprocating saws designed for light and heavy-duty demolition in metal wood and wood composites
+108,88,Fixation Elements,Show me mounting elements spindles nuts and sets to fasten drill stands
+109,88,Other Accessories,Show me accessories for diamond coring machines – hand-wheels spacers and sharpening plates
+110,88,Autofeed Units,Show me automatic feed units designed for autonomous coring with diamond coring machines
+111,88,Dust Extraction,Show me dust extraction heads designed to fit diamond coring machines for virtually dust-free coring in concrete and masonry
+112,88,Baseplates,Show me vacuum baseplates for drill stands
+113,88,Chucks,Show me chucks for diamond coring machines
+114,88,Vacuum Pumps,Show me vacuum pumps designed to make fastening down vacuum baseplates easier and anchoring-free
+115,88,Water & Slurry Management,Show me water and slurry management accessories designed to supply and collect both water and slurry when coring in concrete
+116,88,Water Management System,Show me water management systems designed to enable full water autonomy with easy slurry disposal when coring in concrete and masonry
+117,88,Drill Stands,Show me drill stands and column extensions designed to fit rig-based diamond coring machines
+118,87,Accessories for Wires Saws,Show me accessories for diamond wire saws – such as diamond wire connectors wire guides and guards rollers and wheels
+119,87,Diamond Wire Saws,Show me diamond wire saws designed for structural alteration and heavy-duty concrete demolition
+120,87,Diamond Wall Saws,Show me diamond wall saws designed for structural alteration and heavy-duty concrete demolition
+121,86,Hydraulic Cutters,Show me 22V cordless cutters designed for cutting steel copper and aluminum cables more safely
+122,86,Hydraulic Crimpers,Show me 22V cordless crimpers designed for crimping a wide range of connectors
+123,85,Dust Management for Cutting & Slitting,Show me dust removal systems for electric cutters and slitting tools
+124,85,Dust Management for Chiseling & Breaking,Show me dust removal systems for SDS Plus (TE-C) and SDS Max (TE-Y) rotary hammers
+125,85,Dust Management for Drilling,Show me dust removal systems for SDS Plus (TE-C) and SDS Max (TE-Y) rotary hammers
+126,85,Vacuum Cleaner Accessories,Show me accessories for vacuum cleaners
+127,15,Grinders & Sanders,Show me angle grinders with various disc diameters and switches designed for cutting metal and concrete as well as grinding
+128,85,Vacuum Cleaners,Show me corded wet and dry vacuum cleaners designed to help keep your jobsite free of dust water and slurry
+129,15,Gas Saws,Show me gas saws with different maximum cutting depths designed for cutting concrete and metal
+130,15,Drill Drivers & Screw Drivers,Show me 12V and 22V cordless drill drivers designed for performing drilling in metal wood and masonry
+131,15,Impact Drivers & Wrenches,Show me 12V and 22V cordless impact drivers designed for light and heavy-duty driving in metal wood and concrete
+132,15,Demolition Hammers & Breakers,Show me corded breakers for wall and floor demolition in concrete and masonry
+133,15,Rotary Hammers SDS-Max,Show me corded SDS Max (TE-Y) rotary hammers in different weight classes designed for heavy-duty and serial concrete drilling and chiseling
+134,14,4 or more-Tool Cordless Kits,Show me cordless combo kits with 4 or more tools batteries charger and inserts
+135,14,3-Tool Cordless Kits,Show me cordless combo kits with 3 tools batteries charger and inserts
+136,13,Band Saw Blades,Find out how our band saw blades are designed for safer operation when cutting metal stainless steel and threaded rods
+137,13,Jig Saw Blades,Show me jig saw blades for everyday cuts in metal wood and wood composites
+138,127,Angle Grinders,Show me angle grinders with various disc diameters and switches designed for cutting metal and concrete as well as grinding
+139,130,Accessories for Drill Drivers & Screw Drivers,Show me accessories for drill drivers and screw drivers
+140,130,Cordless Drill Drivers,Show me 12V and 22V cordless drill drivers designed for performing drilling in metal wood and masonry
+141,130,Drywall Screw Drivers,Show me cordless ergonomically designed drywall screw drivers developed for fastening drywall boards to metal or wood
+142,130,Steel & Metal Tappers,Show me corded ergonomically designed steel and metal screw drivers featuring a torque clutch helping to prevent over-screwing and head breakage as well as depth gauges to control sealing washer compression
+143,130,Corded Drill Drivers,Show me corded drill drivers with or without hammering function developed for drilling in metal wood and masonry
+144,132,Dust Removal Systems,Show me tool-mounted dust removal systems designed to fit demolition hammers and breakers when chiseling in concrete
+145,137,Multi Purpose Jig Saw Blades,Show me jig saw blades for everyday cuts in metal wood and wood composites
+146,133,Accessories for Rotary Hammers SDS-Max,Show me accessories for SDS Max (TE-Y) rotary hammers from depth gauges chucks and cords to tool cases
+147,137,Wood Jig Saw Blades,Show me jig saw blades for cutting hardwood softwood wood composites and laminates
+148,133,Dust Removal Systems,Show me tool-mounted dust removal systems designed for SDS Max (TE-Y) rotary hammers when drilling and chiseling in concrete
+149,137,Metal Jig Saw Blades,Show me jig saw blades for cutting thin medium and thick metals including aluminum stainless steel and sheet metal
+150,133,Cordless Rotary Hammers SDS-Max,Show me 36V cordless SDS Max (TE-Y) rotary hammers designed for heavy-duty concrete drilling and chiseling
+151,132,Cordless Breakers,Show me 36V cordless breakers designed for ceiling and wall chipping in concrete and masonry
+152,131,Accessories for Impact Drivers & Wrenches,Show me accessories for impact drivers and wrenches
+153,133,Corded Rotary Hammers SDS-Max,Show me corded SDS Max (TE-Y) rotary hammers in different weight classes designed for heavy-duty and serial concrete drilling and chiseling
+154,131,Cordless Impact Wrenches,Show me 22V cordless impact wrenches designed for light and heavy-duty anchoring and bolting in metal wood and concrete
+155,132,Demolition Hammers & Breakers,Show me corded breakers for wall and floor demolition in concrete and masonry
+156,132,Accessories for Demolition Hammers & Breakers,Show me accessories for demolition hammers and breakers from depth gauges chucks and cords to tool cases
+157,131,Cordless Impact Drivers,Show me 12V and 22V cordless impact drivers designed for light and heavy-duty driving in metal wood and concrete
+158,129,Accessories for Gas Saws,Show me accessories for gas saws such as replacement parts guards hoods start-up ropes and filter replacements
+159,127,Accessories for Concrete Grinders,Show me accessories for concrete grinders from covers guards and hoods to dust collection accessories
+160,127,Cordless Grinders,Show me 22V and 36V cordless grinders designed for cutting and grinding metal and concrete
+161,127,Concrete Grinders,Show me hand-held concrete grinders designed for fast concrete removal
+162,127,Accessories for Angle Grinders,Show me accessories for angle grinders from covers guards and hoods to dust collection accessories
+163,129,Gas Saws,Show me gas saws with different maximum cutting depths designed for cutting concrete and metal
+164,13,Circular Saw Blades,Show me circular saw blades with different diameters designed to cut wood with nails with circular saws
+165,13,Reciprocating Saw Blades,Show me sets of reciprocating saw blades to cut metal wood and minerals with reciprocating saws
+166,13,Diamond Core Bits,Show me diamond core bits for hand-held and rig-based coring machines in all types of concrete and masonry
+167,13,Abrasive Discs,Show me abrasive discs designed for cutting metal steel and stainless steel with angle grinders and gas saws
+168,13,Diamond Grinding Wheels,Find out how our diamond grinding wheels are designed for superior lifetime and removal rate on concrete and a variety of other base materials
+169,13,Diamond Cutting Discs,Find out how our diamond cutting discs are designed for maximum speed lifetime and better handling when cutting in concrete and other minerals
+170,13,Floor & Bench Saw Blades,Find out how our floor and bench saw blades are designed for high cutting speed and a longer lifetime when cutting concrete masonry asphalt or stone
+171,13,Screw Driver Bits & Sockets,Show me long and short impact sockets with 1/4" 3/8" 1/2" and 3/4" connection ends for anchoring and bolting
+172,13,Metal & Wood Drill Bits,Show me high-speed steel (HSS) bits HSS sets and HSS cobalt bits for metal drilling
+173,13,Chisels,Show me pointed chisels for chipping chiseling and demolition in concrete with breakers and rotary hammers
+174,12,Tool Cases and Softbags,Show me robust and practical tool cases to protect tools during storage and transport
+175,12,Accessories for Reciprocating Saws,Show me accessories for reciprocating saws
+176,12,Accessories for Cut-out Tools,Show me accessories for cut-out tools
+177,12,Accessories for Circular Saws,Show me accessories for circular saws
+178,12,Accessories for Band Saws,Show me accessories for band saws
+179,12,Accessories for Rotary Hammers,Show me accessories for rotary hammers
+180,12,Accessories for Impact Drivers & Wrenches,Show me accessories for impact drivers and wrenches
+181,166,Connection Ends,Show me connection ends to be used with diamond core bits – designed to fit most diamond coring machines
+182,15,Rotary Hammers SDS-Plus,Show me corded SDS Plus (TE-C) rotary hammers compact and powerful designed for concrete drilling and light chiseling
+183,166,Diamond Core bits,Show me diamond core bits for hand-held and rig-based coring machines in all types of concrete and masonry
+184,165,Reciprocating Saw Blade Sets,Show me sets of reciprocating saw blades to cut metal wood and minerals with reciprocating saws
+185,164,General Purpose Circular Saw Blades,Show me circular saw blades with different diameters designed to cut wood with nails with circular saws
+186,166,Accessories for Diamond Core Bits,Show me X-Change modules – to be used with X-Change barrels – for hand-held and rig-based coring machines in all types of concrete and masonry
+187,166,Deep Coring Core Bits,Show me core bits for deep coring in concrete and natural stone
+188,171,Torque Bars,Show me torque bars to set Hilti HSA stud anchors with impact wrenches
+189,182,Accessories for Rotary Hammers,Show me accessories for SDS Plus (TE-C) rotary hammers  depth gauges chucks cords and tool cases
+190,182,Cordless Rotary Hammers SDS-Plus,Show me 22V and 36V cordless SDS Plus (TE-C) rotary hammers designed for concrete drilling and light chiseling
+191,182,Dust Removal Systems,Show me dust removal systems both built-in and add-on designed to fit SDS Plus (TE-C) rotary hammers perfectly when drilling in concrete
+192,182,Corded Rotary Hammers SDS-Plus,Show me corded SDS Plus (TE-C) rotary hammers compact and powerful designed for concrete drilling and light chiseling
+193,173,Other Chisels and Accessories,Show me specialty chisels and accessories to be used with breakers and rotary hammers
+194,173,Bushing tools,Show me bushing tools to roughen up surfaces and remove excess concrete with breakers and rotary hammers
+195,173,Narrow Flat Chisels,Show me narrow-flat chisels for chipping chiseling and demolition in concrete with breakers and rotary hammers
+196,173,Wide Flat Chisels,Show me wide-flat chisels for surface smoothing scaling and tile removal in concrete with breakers and rotary hammers
+197,173,Flexible Chisels,Show me flexible chisels for removing linoleum vinyl tiles carpets and coatings with breakers and rotary hammers
+198,172,Accessories for Metal Drill Bits,Show me accessories for metal drilling
+199,172,Spade Bits,Show me spade bits to drill in wood with impact drivers and drill drivers
+200,172,Auger Bits,Show me auger bits to drill through-holes in wood with drill drivers
+201,172,Stepper Bits,Show me stepper bits to drill and enlarge holes in metal sheet with drill drivers
+202,171,Bit Holders,Show me bit holders designed for Hilti power tools with quick-change mechanism or the impact feature that can help to increase lifetime of screwdriver bits
+203,171,Nut Setters,Show me nut setters designed for Hilti power tools with a magnetic or ball-lock screw retention mechanism
+204,171,Screwdriver Bits,Find out more about our long and short screwdriver bits and bit-sets – designed for a precise fit with Hilti screws and durability in hard- and soft-joint screw fastening applications
+205,172,HSS Bits,Show me high-speed steel (HSS) bits HSS sets and HSS cobalt bits for metal drilling
+206,173,Pointed Chisels,Show me pointed chisels for chipping chiseling and demolition in concrete with breakers and rotary hammers
+207,171,Impact Sockets,Show me long and short impact sockets with 1/4" 3/8" 1/2" and 3/4" connection ends for anchoring and bolting
+208,167,Wire Brushes,Show me wire brushes to remove rust and paint
+209,167,Flap Discs,Show me flap discs designed for light grinding and polishing in metal steel and stainless steel
+210,167,Grinding Abrasive Discs,Show me abrasives discs designed for grinding metal steel and stainless steel
+211,167,Cutting Abrasive Discs,Show me abrasive discs designed for cutting metal steel and stainless steel with angle grinders and gas saws
+212,166,X-Change Barrels,Show me X-Change barrels – to be used with X-Change modules – for hand-held and rig-based coring machines in all types of concrete and masonry
+213,166,X-Change Modules,Show me X-Change modules – to be used with X-Change barrels – for hand-held and rig-based coring machines in all types of concrete and masonry
+214,165,Multi Purpose Reciprocating Saw Blades,Show me reciprocating saw blades to cut metal wood and wood composites
+215,165,Speciality Reciprocating Saw Blades,Show me reciprocating saw blades to cut minerals drywall pure wood and renovating pallets
+216,165,Wood & Metal Reciprocating Saw Blades,Show me reciprocating saw blades to cut wood with metal
+217,165,Metal Reciprocating Saw Blades,Show me reciprocating saw blades to cut thin medium and thick metal
+218,164,Metal Circular Saw Blades,Show me circular saw blades with different diameters designed to cut metal stainless steel and aluminum with circular saws
+219,164,Wood Circular Saw Blades,Show me circular saw blades with different diameters designed to cut wood with circular saws
+220,14,2-Tool Cordless Kits,Show me cordless combo kits with 2 tools batteries charger and inserts
+221,13,Concrete Drill Bits,Show me hammer drill bits designed to excel at drilling in concrete and reinforced concrete with rotary hammers (SDS Plus and SDS Max)
+222,12,Accessories for Drill Drivers & Screw Drivers,Show me accessories for drill drivers and screw drivers
+223,11,Dust Management for Sawing,Find out about our dust removal systems that provide virtually dust-free work on your jobsite when sawing in wood and wood composites
+224,11,Dust Management for Grinding and Sanding,Find out about our dust removal systems that provide virtually dust-free work on your jobsite when grinding in concrete and other minerals
+225,11,Dust Management for Chiseling & Breaking,Find out about our dust management solutions to help keep your jobsite clean and minimize airborne dust during concrete demolition chiseling and chipping
+226,11,Dust Management for Cutting & Slitting,Find out about our dust removal systems that provides a virtually dust-free jobsite when cutting and slitting in concrete and mineral materials
+227,11,Dust & Slurry Management for Coring,Show me water management systems designed to enable full water autonomy with easy slurry disposal when coring in concrete and masonry
+228,11,Dust Management for Drilling,Find out about our dust management solutions to help keep your jobsite clean and minimize airborne dust when drilling in concrete
+229,221,Other Concrete Drill Bits & Accessories,Show me special drill bits designed to drill in different minerals with rotary hammers (SDS Plus and SDS Max)
+230,221,Masonry Drill Bits,Show me masonry drill bits designed to drill in masonry with hammer drill drivers
+231,221,Bell shaped Hammer Drill Bits,Show me bell-shaped hammer drill bits designed to drill through-holes in concrete with rotary hammers (SDS Plus and SDS Max)
+232,221,Percussion Core Bits,Show me percussion drill bits designed to drill socket holes in concrete with rotary hammers (SDS Plus and SDS Max)
+233,221,Anchor Setting Tools and Accessories,Show me anchor setting tools for anchor drilling in concrete
+234,221,Hollow Drill Bits,Show me hollow drill bits designed for virtually dust-free drilling in concrete and reinforced concrete with rotary hammers (SDS Plus and SDS Max)
+235,221,Hammer Drill Bits,Show me hammer drill bits designed to excel at drilling in concrete and reinforced concrete with rotary hammers (SDS Plus and SDS Max)
+236,227,Dust Extraction,Show me dust extraction heads for diamond coring machines
+237,227,Water & Slurry Management,Show me dust and slurry collection systems for diamond coring machines
+238,227,Water Management System,Show me water management systems designed to enable full water autonomy with easy slurry disposal when coring in concrete and masonry
+239,10,Base connectors,Base plates steel clamps and hangers with a galvanized surface finish for fastening to concrete masonry steel beams metal roof decks and more
+240,10,Accessories,Accessories for modular support systems – threaded rods hexagonal nuts screws bolts adapters and washers in a galvanized surface finish
+241,10,Channel systems,Galvanized modular channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+242,10,3D structures,Medium-duty channel systems for a wide range of 3D applications
+243,239,Galvanized,Base plates steel clamps and hangers with a galvanized surface finish for fastening to concrete masonry steel beams metal roof decks and more
+244,240,Galvanized,Accessories for modular support systems – threaded rods hexagonal nuts screws bolts adapters and washers in a galvanized surface finish
+245,240,Stainless steel,Accessories for modular support systems – threaded rods hexagonal nuts screws bolts adapters and washers in a stainless steel surface finish
+246,242,Accessories,Accessories for modular 3D structures such as platforms
+247,241,Stainless steel,Stainless steel modular channel systems for the installation of pipe supports ventilation ducts and cable trays where corrosion is an issue. Designed specifically for greater flexibility and ease-of-use
+248,242,Medium-duty channel system (MQ),Medium-duty channel systems for a wide range of 3D applications
+249,242,Base Connectors,Base plates steel clamps and hangers for fastening to concrete masonry steel beams metal roof decks and more
+250,241,Galvanized,Galvanized modular channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+251,242,Heavy-duty channel system (MIQ),Heavy-duty channel system with integrated MQ profile – suitable for constructing platforms and other 3D structures
+252,240,Hot-dip galvanized,Accessories for modular support systems – threaded rods hexagonal nuts screws bolts adapters and washers in a hot-dip galvanized surface finish
+253,242,Heavy-duty channel system (MI),Hilti's strongest heavy-duty channel system – designed to save time and increase productivity when working on 3D structures
+254,241,Hot-Dip Galvanized,Hot-dip galvanized modular channel systems for the installation of pipe supports ventilation ducts and cable trays in moderately corrosive environments. Designed specifically for greater flexibility and ease-of-use
+255,10,Electrical,Medium-duty channel systems for a wide range of electrical applications. Designed specifically for greater flexibility and ease-of-use
+256,10,Seismic,Medium-duty channel systems designed specifically for greater flexibility and seismic applications
+257,10,Piping,Medium-duty channel systems for a wide range of piping applications. Designed specifically for greater flexibility and ease-of-use
+258,10,Ventilation,Medium-duty channel systems for a wide range of ventilation applications. Designed specifically for greater flexibility and improved acoustic insulation
+259,9,ON!Track Accesories,Accessories to fasten tags to your assets.
+260,8,Grouts & Concrete Repair,Grouts highly resistant to static and dynamic stresses – and repair mortars resistant to chemicals abrasion and weather
+261,9,ON!Track Tags,Broad portfolio of robust tags - designed for the toughest jobsite conditions - to identify your tools equipment and consumables.
+262,8,Accessories for Construction Chemicals,See our ergonomic and easy-to-use foam guns for precise low-waste dispensing in common and difficult-to-reach areas
+263,10,Sprinkler,Pipe clamps and loop hangers designed and approved for use in sprinkler applications
+264,7,Software for Fastening Systems,PROFIS design software for a wide range of anchor fastening and rebar applications in 3D. Design according to international codes or beyond - with Hilti SOFA design method
+265,7,Software for Fire Protection,Simplify the firestop process – automate complex design and product selection document your installations ready for inspections
+266,6,Firestop Coating Systems & Mortars,Find our firestop mixed penetration seals – approved for cables and for a wide range of combustible and non-combustible pipes and pipe insulation materials
+267,6,Software for Firestop & Fire Protection,Simplify your entire firestopping process thanks to our dedicated software covering product selection design planning specification and documentation
+268,6,Accessories for Firestop & Fire Protection,See all dispensers/caulking guns for use with Hilti firestop solutions like fire foams firestop sealants and more
+269,6,Smoke & Acoustic Products,Our seals for construction joints and openings in non fire-rated acoustic barriers and smoke partitions help you enhance soundproofing and limit smoke spread
+270,6,Prefabricated Joints,Designed as a faster simpler and no-mess solution to provide excellent fire smoke and acoustic ratings. Minimize installation errors and waste while saving money
+271,6,Firestop Foams,Our re-penetrable smoke-tight and flexible fire foam solutions are ideal to firestop cable pipe or mixed penetrations in small to medium-sized openings
+272,6,Firestop Putties,Whether you need to firestop outlet boxes or small cable penetrations you will find the solution here – our quick to install putty pads putty sticks and cable discs
+273,6,Firestop Collars Wraps & Bandages,Find the right fire collar to firestop cables pipes and mixed penetrations in standard and non-standard wall and floor configurations
+274,6,Firestop Sealants & Sprays,Firestop sealants sprays and fire caulk designed for use in linear and curtain wall joints as well as penetrations in walls and floors
+275,255,Multiple Wire Mounting,Bunch cable holders stand-off clamps and multi-range pipe rings for fastening cables and conduits
+276,257,Medium-duty channel system (MQ),Medium-duty channel systems for a wide range of piping applications. Designed specifically for greater flexibility and ease-of-use
+277,256,Accessories,Accessories for modular seismic applications
+278,255,Medium-duty channel system (MQ),Medium-duty channel systems for a wide range of electrical applications. Designed specifically for greater flexibility and ease-of-use
+279,258,Medium-duty channel system (MQ),Medium-duty channel systems for a wide range of ventilation applications. Designed specifically for greater flexibility and improved acoustic insulation
+280,257,Base Connectors,Base plates steel clamps and hangers for fastening to concrete masonry steel beams metal roof decks and more
+281,257,Accessories,Accessories for modular pipe support systems – threaded rods hexagonal nuts screws bolts adapters and washers
+282,268,Dispensers,See all dispensers/caulking guns for use with Hilti firestop solutions like fire foams firestop sealants and more
+283,268,Other Accessories for Firestop & Fire Protection,Find additional accessories to help you complete firestop installations which save lives protect assets and improve building performance
+284,268,Collars & Fasteners,Find additional collars and fasteners to help you attach the right firestop solution for your specifications and base material
+285,268,Firestop Stickers and Labels,See all stickers and labels to help you document your firestop installations using Hilti Firestop Documentation Manager software
+286,268,Nozzles & Extensions,See all options for nozzles and extensions for use with firestop dispensers
+287,268,Mineral Wool,See our mineral wool products for firestopping joints and through penetrations
+288,263,Seismic sprinkler solutions,Factory Mutual (FM) approved seismic bracing systems for sprinkler applications
+289,263,Sprinkler Components,Components for modular sprinkler applications
+290,262,Other Accessories,Find additional accessories to help you improve building performance and save energy
+291,262,Nozzles & Extensions,See all nozzles and extensions for use with our foam spray cans
+292,262,Cleaners,If you need to remove freshly spilled foam from most common jobsite surfaces you will find the right foam cleaner spray here
+293,263,Sprinkler pipe clamps and loop hangers,Pipe clamps and loop hangers designed and approved for use in sprinkler applications
+294,262,Dispensers,See our ergonomic and easy-to-use foam guns for precise low-waste dispensing in common and difficult-to-reach areas
+295,258,Ventilation accessories,Accessories for modular ventilation applications
+296,258,Base Connectors,Base plates steel clamps and hangers for fastening to concrete masonry steel beams metal roof decks and more
+297,257,Imperial Pipe Clamps,Imperial pipe clamps to fix utility and process pipes for indoor and outdoor applications. Covering a wide range from light to heavy
+298,258,Heavy-duty channel system (MI),Hilti's strongest heavy-duty channel system designed to save time and increase productivity in ventilation installations
+299,258,Heavy-duty channel system (MIQ),Heavy-duty channel system with integrated MQ profile for easier ventilation installations
+300,257,Heavy-duty channel system (MI),Hilti's strongest heavy-duty channel system for large-diameter pipes
+301,256,Seismic sprinkler solutions,Factory Mutual (FM) approved seismic bracing systems for sprinkler applications
+302,257,Medium-duty channel system (HS),Medium-duty channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+303,257,Heavy-duty channel system (MIQ),Heavy-duty channel system with integrated MQ profile for easier pipe connectivity
+304,256,Seismic components,Hilti channel and bracing connectors for a vast ranged of mechanical and electrical applications in seismic areas
+305,256,Pipe Clamps,Factory Mutual (FM) approved pipe clamps for seismic bracing in sprinkler applications
+306,255,Heavy-duty channel system (MIQ),Heavy-duty channel system with integrated MQ profile for easier electrical installations
+307,256,Medium-duty channel system (HS),Medium-duty channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+308,256,Medium-duty channel system (MQ),Medium-duty channel systems designed specifically for greater flexibility and seismic applications
+309,255,Heavy-duty channel system (MI),Hilti's strongest heavy-duty channel system designed to save time and increase productivity in electrical installations
+310,255,Medium-duty channel system (HS),Modular channel systems for the installation of pipe supports ventilation ducts and cable trays. Designed specifically for greater flexibility and ease-of-use
+311,6,Firestop Sleeves & Pathways,Pre-formed and easy-to-inspect firestop sleeves for cable penetrations. Designed for buildings in which airflow control and cost-effective maintenance is key such as hospitals and data centers
+312,7,Software for Measuring Devices,Hilti PROFIS software helps you with your measuring tasks from design and data management to jobsite layout and concrete scan analysis
+313,8,Foams,Self-expanding polyurethane foam sealants. Fills seals and insulates by forming a durable air-resistant and water-resistant bond with most construction substrates
+314,6,Firestop Cable Transit Systems,See the range of cable transit frames also referred to as sleeves used to create rectangular or round modular cable/pipe penetrations in walls and floors
+315,6,Firestop Blocks Plugs & Cushions,Pre-formed fast-to-install firestop solutions for cable pipe and mixed penetrations. Designed for easy repenetration while reducing dust and airborne fiber particles
+316,6,Firestop Cast-in Devices & Accessories,Pre-formed easy-to-inspect firestop device for pipe penetrations through concrete for new constructions – a one-step solution for pipe floor penetrations
+317,5,Direct Fastening Elements,Show me solutions for fastening single and bundled cables to concrete steel or masonry
+318,5,Nails & Threaded Studs,Show me single and collated nails for use with powder-actuated tools – such as the smart DX 5 or the compact DX 2
+319,5,Metal Construction Screws,Show me single and collated screws for fast robust and water-resistant fastening of light- to heavy-gauge metal-to-metal connections
+320,5,Accessories for Anchors & Testers,Nozzles for chemical anchor applications
+321,5,Cast-in Anchor Inserts,Kwik Cast anchors for metal deck applications are available in a range of sizes and can accommodate threaded rod diameters from 3/8" to 3/4".
+322,5,Drywall Screws,Show me single and collated screws for fastening drywall boards wood boards and other materials to metal studs or wood substructures
+323,5,Insulation Fasteners,Show me fasteners for basement perimeter insulation
+324,5,Chemical Anchor Dispensers,Battery manual and pneumatic chemical anchor dispensers
+325,5,Drywall Anchors,Find out how to use plastic or metal drywall anchors to fasten virtually anything from light finishings to heavier installations to drywall
+326,5,Cast-in Anchor Channels,Temperature-controlled roll shaping (TCRS) anchor channels are engineered for use on the most challenging designs
+327,5,Plastic Anchors,Light duty anchors for mechanical electrical and interior finishing fixings in materials such as drywall gas concrete and masonry
+328,5,Flush Anchors,Drop-in flush anchors with international approvals available in carbon and stainless steel
+329,5,Undercut Anchors,Undercut anchors with international approvals for fatigue fire and nuclear applications - designed for extreme performance and reliability
+330,5,Sleeve Anchors & Nail Anchors,Metal anchor systems for fastenings in concrete masonry and drywall
+331,5,Wedge Anchors,Expansion anchors in carbon steel and stainless steel approved for cracked concrete  non-cracked concrete and seismic – including stud anchors and sleeved anchors
+332,5,Anchor Rods & Elements,Carbon and stainless steel fasteners for use with chemical adhesives in concrete and masonry and other base materials
+333,5,Screw Anchors,Concrete screw anchors for permanent and temporary applications – including screw anchors which can be used in solid brick and hollow-core slabs
+334,314,Frames & sleeves,See the range of cable transit frames also referred to as sleeves used to create rectangular or round modular cable/pipe penetrations in walls and floors
+335,322,Screws,Show me single and collated screws for fastening drywall boards wood boards and other materials to metal studs or wood substructures
+336,322,Accessories for Drywall Screws,Show me accessories for drywall screws – such as magazines depth gauges and pole tools
+337,321,Cast-In Anchors for Wood Form,Kwik Cast anchors for wood form applications are available in a range of sizes and can accommodate threaded rod diameters from 1/4" to 3/4". The Kwik Cast wood form anchor setting tool helps increase productivity and provides the ability to easily install anchors in tight spaces such as within rebar grids.
+338,326,T-bolts for all Anchor Channels,T-bolts compatible with TCRS hot-rolled or cold-formed channels for 2D and 3D loads
+339,326,Accessories for Elevators,Accessories specifically for elevator applications
+340,326,Serrated Anchor Channels - TCRS,Temperature-controlled roll shaping (TCRS) serrated anchor channels are a more reliable option when dealing with 3D loads such as seismic activity
+341,326,Anchor Channels - TCRS,Temperature-controlled roll shaping (TCRS) anchor channels are engineered for use on the most challenging designs
+342,323,Light-ventilated façade Insulation,Show me fasteners for light ventilated façade insulation
+343,323,Ceiling Insulation,Show me fasteners for ceiling insulation
+344,320,Other Accessories,Roughening tools to prepare boreholes after diamond coring
+345,320,Stop drill bits,Stop drill bits for the installation of undercut anchors
+346,320,Setting tools,Our system of stop drill bits with setting tools for flush anchors
+347,320,Cleaning accessories,Accessories to help you to clean bore holes properly
+348,319,Accessories for Metal Construction Screws,Show me accessories for metal construction screws – such as stand-up handles for higher-productivity decking or sealing washers and saddle washers for water-resistant fastenings
+349,323,Basement Perimeter Insulation,Show me fasteners for basement perimeter insulation
+350,318,Accessories for Threaded Studs,Show me accessories for fixing threaded studs – such as the blunt-tip X-BT or the screw-in stud S-BT
+351,318,Threaded Studs,Show me threaded studs for a wide variety of applications on concrete and steel – such as grating grounding light cable trays or multi-purpose fastenings
+352,318,Nails for Gas-Actuated Tools,Show me collated nails for use with gas nailers - such as GX 3
+353,320,Mixing nozzles and injection accessories,Nozzles for chemical anchor applications
+354,318,Nails for Battery-Actuated Tools,Show me single and collated nails for use with cordless nailers - such as the awarded BX 3
+355,321,Cast-In Anchors for Metal Deck,Kwik Cast anchors for metal deck applications are available in a range of sizes and can accommodate threaded rod diameters from 3/8" to 3/4".
+356,319,Screws,Show me single and collated screws for fast robust and water-resistant fastening of light- to heavy-gauge metal-to-metal connections
+357,317,Grating & Checker Plate Fasteners,Show me solutions for installing grating and checker plates on steel structures
+358,317,Wall & Formwork Fasteners,Show me wall construction fasteners designed to position and secure formwork or wall elements more reliably
+359,317,Other Elements,Show me application-specific fastening elements – such as soft washers for fastening drainage membrane or shear connectors for composite beams
+360,317,Suspended Ceiling Clips,Show me ceiling clips and hangers to support suspended ceilings in concrete or steel
+361,317,Ceiling Hangers & Special Fasteners,Show me clips and threaded rod hangers for light-duty electrical and mechanical fastenings on ceilings
+362,317,Conduit Fasteners,Show me solutions for fastening flexible and rigid electrical conduits water and heating pipes to concrete steel or masonry
+363,318,Nails for Powder-Actuated Tools,Show me single and collated nails for use with powder-actuated tools – such as the smart DX 5 or the compact DX 2
+364,316,Drop-in Devices,Pre-formed easy-to-inspect and install firestop solution for pipe penetrations in a wide variety of base materials – designed for renovation and new construction
+365,316,Accessories,Find all our cast-in and drop-in device accessories to complete your firestop and fire protection installations for pipe penetrations through fire-rated floors
+366,314,Plug seals,See our cable transit plug seal solutions – used to create a fire smoke and water barrier within round openings with single or multiple cable penetrations
+367,314,Accessories,Accessories for cable transit frames deliver expanded firestopping functionality as well as enhanced gas- water- and smoke-tightness when needed
+368,314,Modules,See all cable modules – interchangeable and re-usable blocks which are mounted within transit frames to create a fire smoke and water barrier around virtually any cable configuration
+369,317,Cable Fasteners,Show me solutions for fastening single and bundled cables to concrete steel or masonry
+370,316,Cast-in Devices,Pre-formed easy-to-inspect firestop device for pipe penetrations through concrete for new constructions – a one-step solution for pipe floor penetrations
+371,5,Capsule Adhesive Anchors,Capsule adhesive anchors covered by international approvals for applications in concrete - for sequential applications with fixed embedment depth
+372,4,Software,Find out about our PROFIS software for documenting measuring tasks from start to finish – from design and document management to jobsite layout and concrete analysis scans
+373,4,Accessories for Measuring Tools and Scanners,Show me tripods and leveling staffs designed to keep measuring tools steady for accurate measuring and readings
+374,373,Other Accessories,Show me accessories for measuring tools – from laser warning signs and laser visibility glasses to electronic accessories
+375,373,Consumables,Show me detection reference grids adhesive tape markers putty and other aids for easy measurements
+376,373,Batteries & Chargers,Show me batteries and chargers for layout tools rotating- point- and line lasers laser levels and concrete scanners
+377,373,Monitors & Tablets,Show me monitors and controllers for real-time detection analysis and laying out field points on your jobsite
+378,373,Carrying Devices,Show me carrying bags hand straps and cases to transport measuring tools and scanners
+379,373,Receivers Target Plates & Reflectors,Show me laser receivers remotes and target plates designed to simplify laser targeting even in bright conditions
+380,373,Connection Accessories,Show me cables and connectivity accessories for transferring measuring data between PCs concrete scanners and layout tools
+381,373,Mounts & Adapters,Show me mounts and adapters for attaching level lasers to ceilings façades walls and pipes
+382,373,Tripods & Levelling Staffs,Show me tripods and leveling staffs designed to keep measuring tools steady for accurate measuring and readings
+383,4,Optical Levels and Theodolites,Find out how our optical levels are designed for easy use in long-distance leveling
+384,4,Construction Total Stations,Find out how our total stations are designed to be intuitive to use for point-marking and construction layout both outdoors or indoors on floors walls or ceilings
+385,4,Concrete Scanners,Find out how our concrete scanners are designed for precise non-destructive structural analysis and detecting hidden objects
+386,4,Rotating Lasers,Find out how our rotating laser levels are designed to be robust and easy to use for long-distance leveling aligning squaring and slope tasks
+387,4,Line & Point Lasers,Find out how our line and point lasers are designed for intuitive and one-person operation on leveling squaring and alignment tasks
+388,5,Injectable Adhesive Anchors,A wide range of chemical anchor fasteners - our injectable mortars are also designed for rebar applications and can be used on concrete and masonry
+389,4,Laser Meters,Find out how our laser meters are designed for intuitive and one-person operation when measuring over long distances or hard-to-reach spots
+390,3,Accessories for Direct Fastening,Show me pistons brakes and buffers for direct fastening tools
+391,3,Special Applications,Find out how custom-built direct fastening solutions can streamline specialized applications – like marking on cold and hot steel or testing sprayed concrete
+392,3,Grounding & Bonding,Find out how our direct fastening and screw fastening solutions for grounding earthing and bonding are made to allow electrical current to flow through the stud and then discharge it properly into the base material
+393,3,Grating,Find out about our direct fastening solutions for installing gratings and checker plates on steel structures
+394,3,Fastening in Corrosive Environments,Find out about our direct fastening solutions for outdoor applications which are directly or indirectly exposed to weather and corrosive environments
+395,3,Insulation Fastening,Find out about our direct fastening solutions for fastening mineral wool EPS and other insulation boards onto façades ceilings and basement exteriors
+396,3,Wall & Formwork Fastening,Find out about our direct fastening solutions specifically designed to fasten wood profiles to concrete fix drywall track and brick ties to masonry or concrete and fasten termination bars to secure waterproof membranes
+397,3,Ceiling Hanger Systems,Find out how Hilti powder-actuated fastening tools clips and fasteners can be used to make installing suspended ceilings faster and easier
+398,3,Decking & Siding,Find out how our powder-actuated fastening solutions can help you to increase productivity for siding and decking applications – such as fixing profiled metal sheets liner trays composite beams and many more
+399,3,Electrical & Mechanical Fastening,Find out about our tools and fasteners for electrical and mechanical fastening – including our cordless nailers for concrete steel or masonry
+400,3,Drywall Applications,Find out how to speed up the installation of drywall track by using cordless and gas nailers
+401,390,Other Accessories,Show me nail magazines lubricants washer holders setting tools and other accessories for direct fastening systems
+402,390,Tool Cases,Show me tool cases to protect transport and store my direct fastening tools
+403,390,Cleaning equipment,Show me cleaning kits and brushes for the periodical maintenance of direct fastening tools
+404,390,DX safety equipment,Show me safety glasses and goggles for eye protection on standard construction site activities
+405,390,Pole tool accessories,Show me pole tools grip sections spare part kits and other accessories for more comfortable fastening to ceilings
+406,390,Magazines & Fastener Guides,Show me the wide range of fastener guides with which I can expand the functionality of my direct fastening tool
+407,390,Pistons,Show me pistons brakes and buffers for direct fastening tools
+408,3,General Purpose Nails & Studs for Powder-Actuated Tools,Find out how our nails and threaded studs have been engineered to fasten more reliably to most base materials
+409,2,Cordless Impact Drivers & Wrenches,Show me 12V and 22V cordless impact drivers designed for performing light and heavy-duty driving in metal wood and concrete
+410,2,Cordless Drill Drivers & Screw Drivers,Show me 12V and 22V cordless drill drivers designed for drilling in metal wood and masonry
+411,2,Cordless Demolition Hammers,Find out how our cordless breakers are designed to reduce fatigue and vibration in chiseling and chipping in concrete
+412,2,Cordless Rotary Hammers SDS-Max,Find out how our SDS Max (TE-Y) rotary hammers are designed for high performance and power efficiency in heavy-duty concrete drilling
+413,409,Cordless Impact Drivers,Show me 12V and 22V cordless impact drivers designed for performing light and heavy-duty driving in metal wood and concrete
+414,410,Cordless Metal Screw Drivers,Show me 22V cordless ergonomically designed steel and metal screw drivers featuring a torque clutch helping to prevent over-screwing and head breakage and depth gauges to control sealing washer compression
+415,409,Cordless Impact Wrenches,Show me 22V cordless impact wrenches designed for performing light and heavy-duty anchoring and bolting in metal wood and concrete
+416,410,Cordless Drywall Screw Drivers,Show me corded ergonomically designed drywall screw drivers developed for driving screws to fasten drywall boards to metal or wood
+417,410,Cordless Drill Drivers,Show me 12V and 22V cordless drill drivers designed for drilling in metal wood and masonry

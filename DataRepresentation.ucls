@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="sap.com.deepMatching.rdata2graph.model.Node" project="rdata2graph" 
+    file="/rdata2graph/src/main/java/sap/com/deepMatching/rdata2graph/model/Node.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="186" x="535" y="417"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="sap.com.deepMatching.rdata2graph.model.Edge" project="rdata2graph" 
+    file="/rdata2graph/src/main/java/sap/com/deepMatching/rdata2graph/model/Edge.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="148" width="186" x="309" y="229"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="sap.com.deepMatching.rdata2graph.model.Class" project="rdata2graph" 
+    file="/rdata2graph/src/main/java/sap/com/deepMatching/rdata2graph/model/Class.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="186" x="761" y="417"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="sap.com.deepMatching.rdata2graph.model.Graph" project="rdata2graph" 
+    file="/rdata2graph/src/main/java/sap/com/deepMatching/rdata2graph/model/Graph.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="58" width="186" x="648" y="229"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="sap.com.deepMatching.rdata2graph.model.Literal" project="rdata2graph" 
+    file="/rdata2graph/src/main/java/sap/com/deepMatching/rdata2graph/model/Literal.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="130" width="186" x="987" y="417"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="sap.com.deepMatching.rdata2graph.model.Property" project="rdata2graph" 
+    file="/rdata2graph/src/main/java/sap/com/deepMatching/rdata2graph/model/Property.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="186" x="309" y="417"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <association id="7">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="8" name="property"/>      
+      <multiplicity id="9" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="10">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="11" name="classes">        
+        <position height="18" width="46" x="824" y="394"/>      
+      </attribute>      
+      <multiplicity id="12" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="13">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="14" name="properties">        
+        <position height="18" width="57" x="437" y="394"/>      
+      </attribute>      
+      <multiplicity id="15" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="16">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="17" name="nodes">        
+        <position height="18" width="38" x="658" y="398"/>      
+      </attribute>      
+      <multiplicity id="18" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="19">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="20" name="literals">        
+        <position height="18" width="39" x="978" y="398"/>      
+      </attribute>      
+      <multiplicity id="21" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
